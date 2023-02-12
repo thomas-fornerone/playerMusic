@@ -9,7 +9,7 @@ canvas.title("Music Player")
 canvas.geometry("600x800")
 canvas.config(bg = "black")
 
-rootpath = "C:\\Users\\thoma\\Documents\\Python\\playermusic\\music"
+rootpath = "..\\playermusic\\music"
 pattern = "*.mp3"
 
 mixer.init()
